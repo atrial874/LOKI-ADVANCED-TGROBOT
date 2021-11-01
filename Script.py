@@ -1,14 +1,14 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝗠𝗬 𝗡𝗔𝗠𝗘 𝗜𝗦 <a href='https://t.me/LOKI_AUTOFILTER_bot'>𝗟𝗢𝗞𝗜 𝗟𝗔𝗨𝗙𝗘𝗦𝗢𝗡</a>, 𝗔 𝗨𝗡𝗟𝗜𝗠𝗜𝗧𝗘𝗗 𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥 + 𝗙𝗜𝗟𝗧𝗘𝗥 𝗕𝗢𝗧 𝗪𝗜𝗧𝗛 𝗠𝗔𝗡𝗬 𝗔𝗕𝗜𝗟𝗜𝗧𝗜𝗘𝗦.
+𝗠𝗬 𝗡𝗔𝗠𝗘 𝗜𝗦 <a href='https://t.me/Ultimate_movie_bot'>ULTIMATE MOVIES</a>, 𝗔 𝗨𝗡𝗟𝗜𝗠𝗜𝗧𝗘𝗗 𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥 + 𝗙𝗜𝗟𝗧𝗘𝗥 𝗕𝗢𝗧 𝗪𝗜𝗧𝗛 𝗠𝗔𝗡𝗬 𝗔𝗕𝗜𝗟𝗜𝗧𝗜𝗘𝗦.
 
 𝗬𝗢𝗨 𝗖𝗔𝗡 𝗨𝗦𝗘 𝗠𝗘 𝗜𝗡 𝗬𝗢𝗨'𝗥𝗘 𝗚𝗥𝗢𝗨𝗣 𝗕𝗬 𝗦𝗜𝗠𝗣𝗟𝗘 𝗦𝗧𝗘𝗣𝗦 𝗝𝗨𝗦𝗧 𝗔𝗗𝗗 𝗠𝗘 𝗜𝗡 𝗬𝗢𝗨'𝗥𝗘 𝗚𝗥𝗢𝗨𝗣 𝗔𝗡𝗗 𝗠𝗔𝗞𝗘 𝗠𝗘 𝗔𝗦 𝗔𝗗𝗠𝗜𝗡 𝗜𝗡 𝗬𝗢𝗨'𝗥𝗘 𝗚𝗥𝗢𝗨𝗣 𝗔𝗡𝗗 𝗦𝗘𝗘 𝗠𝗬 𝗣𝗢𝗪𝗘𝗥𝗦 🔥🔥
 
-𝗔 𝗕𝗢𝗧 𝗠𝗔𝗜𝗡𝗧𝗔𝗜𝗡𝗘𝗗 𝗕𝗬 @TOM_HOLLA_ND"""
+𝗔 𝗕𝗢𝗧 𝗠𝗔𝗜𝗡𝗧𝗔𝗜𝗡𝗘𝗗 𝗕𝗬 @I_CREATOR_BOT"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: LOKI LAUFESON 
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: @TOM_HOLLA_ND
+    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: ULTIMATE MOVIES 
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: @I_CREATOR_BOT
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -18,14 +18,14 @@ class script(object):
 - I'M NOT A OPEN SOURCE PROJECT 
 - PLEASE CONTACT MY MASTER FOR MY DOUBTS AND COMPLAINTS 
 
-<b>𝗠𝗔𝗦𝗧𝗘𝗥:</b>
-- <a href=https://t.me/TOM_HOLLA_ND>𝗧𝗢𝗠 𝗛𝗢𝗟𝗟𝗔𝗡𝗗</a>"""
+<b>MASTERBRAIN:</b>
+- <a href=https://t.me/i_creator_bot>ITs ME</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. eva maria should have admin privillage.
+1. I should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -44,7 +44,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https//t.me/EvaMariaBot)</code>
+<code>[Button Text](buttonurl:https//t.me/Ultimate_movie_bot)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
