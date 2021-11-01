@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/LOKI LOGO.jpg" alt="Loki Logo">
-</p>
+
 <h1 align="center">
   <b>LOKI LAUFESON Bot</b>
 </h1>
