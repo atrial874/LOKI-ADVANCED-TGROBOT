@@ -1,8 +1,9 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝗠𝗬 𝗡𝗔𝗠𝗘 𝗜𝗦 <a href='https://t.me/BHAVANA_AUTOFILTER_bot'>BHAVANA</a>, 𝗔 𝗨𝗡𝗟𝗜𝗠𝗜𝗧𝗘𝗗 𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥 + 𝗙𝗜𝗟𝗧𝗘𝗥 𝗕𝗢𝗧 𝗪𝗜𝗧𝗛 𝗠𝗔𝗡𝗬 𝗔𝗕𝗜𝗟𝗜𝗧𝗜𝗘𝗦.
-
-𝗬𝗢𝗨 𝗖𝗔𝗡 𝗨𝗦𝗘 𝗠𝗘 𝗜𝗡 𝗬𝗢𝗨'𝗥𝗘 𝗚𝗥𝗢𝗨𝗣 𝗕𝗬 𝗦𝗜𝗠𝗣𝗟𝗘 𝗦𝗧𝗘𝗣𝗦 𝗝𝗨𝗦𝗧 𝗔𝗗𝗗 𝗠𝗘 𝗜𝗡 𝗬𝗢𝗨'𝗥𝗘 𝗚𝗥𝗢𝗨𝗣 𝗔𝗡𝗗 𝗠𝗔𝗞𝗘 𝗠𝗘 𝗔𝗦 𝗔𝗗𝗠𝗜𝗡 𝗜𝗡 𝗬𝗢𝗨'𝗥𝗘 𝗚𝗥𝗢𝗨𝗣 𝗔𝗡𝗗 𝗦𝗘𝗘 𝗠𝗬 𝗣𝗢𝗪𝗘𝗥𝗦 🔥🔥
+𝗠𝗬 𝗡𝗔𝗠𝗘 𝗜𝗦 <a href='https://t.me/BHAVANA_AUTOFILTER_bot'>BHAVANA</a>, I can provide in your Group, 
+Just add me to your group & PROMOTE AS ADMIN and i will do my work 😜 
+JUST CHILL AND SEE MY POWERS 🔥🔥
+LET YOUR GROUP GET SOME PEWER ❤️😎
 
 𝗔 𝗕𝗢𝗧 𝗠𝗔𝗜𝗡𝗧𝗔𝗜𝗡𝗘𝗗 𝗕𝗬 @I_CREATOR_BOT"""
     HELP_TXT = """𝙷𝙴𝚈 {}
@@ -14,8 +15,7 @@ class script(object):
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
-    SOURCE_TXT = """<b>NOTE:</b>
-- I'M NOT A OPEN SOURCE PROJECT 
+    SOURCE_TXT = """<b>NOTE:</b> 
 - PLEASE CONTACT MY MASTER FOR MY DOUBTS AND COMPLAINTS 
 
 <b>MASTERBRAIN:</b>
@@ -51,6 +51,7 @@ class script(object):
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
 <b>NOTE:</b>
+ACTUALLY YOU DONT NEED TO ADD ANY FILES TO ME ( bcz. My admins have added many files. Yet if you are interested you can proceed. Thank you ❤️)
 1. Make me the admin of your channel if it's private.
 2. make sure that your channel does not contains cam rip, porn and fake files.
 3. Forward the last message to me with quotes.
